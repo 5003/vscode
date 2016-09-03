@@ -8,7 +8,7 @@
 	"findNextMatchAction": "次を検索",
 	"findPreviousMatchAction": "前を検索",
 	"moveSelectionToNextFindMatch": "最後に選択した項目を次の一致項目に移動",
-	"selectAllOccurencesOfFindMatch": "一致項目のすべてのオカレンスを選択",
+	"selectAllOccurencesOfFindMatch": "一致項目のすべての出現個所を選択",
 	"startFindAction": "検索",
 	"startReplace": "置換"
 }
